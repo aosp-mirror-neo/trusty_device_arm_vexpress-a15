@@ -17,8 +17,6 @@ LOCAL_DIR := $(GET_LOCAL_DIR)
 
 TARGET := vexpress-a15
 
-KERNEL_32BIT := true
-
 #
 # GLOBAL definitions
 #
